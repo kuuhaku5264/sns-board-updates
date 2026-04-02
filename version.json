@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "notes": "アイコン追加",
-  "url_mac": "https://github.com/kuuhaku5264/threboard/releases/download/v1.0.5/SNSBoard-mac.zip",
-  "url_windows": ""
+  "version": "1.0.6",
+  "notes": "windows版追加",
+  "url_mac": "https://github.com/kuuhaku5264/threboard/releases/download/v1.0.6/SNSBoard-mac.zip",
+  "url_windows": "https://github.com/kuuhaku5264/threboard/releases/download/v1.0.6/SNSBoard-installer.exe"
 }

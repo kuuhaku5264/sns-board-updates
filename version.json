@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "url_windows": "https://github.com/kuuhaku5264/sns-board/releases/download/v1.0.5/SNSBoard-Setup.exe",
-  "url_mac": "https://github.com/kuuhaku5264/sns-board/releases/download/v1.0.5/SNSBoard-mac.dmg",
-  "notes": "バージョン 1.0.5 がリリースされました"
+  "version": "1.0.4",
+  "notes": "初回リリース",
+  "url_mac": "https://github.com/kuuhaku5264/threboard/releases/download/v1.0.4/SNSBoard-mac.zip",
+  "url_windows": ""
 }
